@@ -1,0 +1,32 @@
+/* 
+    Created on : 29/11/2014, 00:13:08
+    Author     : Rudy Jordache
+*/
+
+body{
+    background-color: #e3e3e3;
+}
+
+#tudo{
+    padding: 10px 50px 50px 50px;
+}
+
+h1{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#terminal{
+    width: 800px;
+    height: 500px;
+    resize: none;
+    background-color: #000;
+    overflow-y: hidden;
+}
+.text{
+    border:0;
+    outline: none;
+    display: inline;
+}
+.text:focus, .text:active, .text:hover{
+    border:0;
+}
